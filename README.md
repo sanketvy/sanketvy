@@ -3,7 +3,7 @@
 - 👀 I’m interested in building complex distributed software systems, and working on challenging software problems.
 - 🌱 I’m currently working with Java based technologies, Spring Boot, React JS, Google Cloud
 - 📫 Email : srvyawahare18@gmail.com
-- 📈 In my free time, I like to build trading algorithms and strategies, which can be deployed in capital markets.
+- 📈 Currently working on building @AetherBridge and @ScaleCheck
 
 <!---
 sanketvy/sanketvy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
