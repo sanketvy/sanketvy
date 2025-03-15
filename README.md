@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sanket Vyawahare
 - 👨‍💼 I work as Software Developer@Amdocs
 - 👀 I’m interested in building complex distributed software systems, and working on challenging software problems.
-- 🌱 I’m currently working with Java based technologies, Spring Boot, React JS, Google Cloud
+- 🌱 I’m currently working to build AetherEdge, Java based low latency trading platform.
 - 📫 Email : srvyawahare18@gmail.com
 
 
