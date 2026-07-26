@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sanket Vyawahare
-- 👨‍💼 I am currently work as Software Developer with Amdocs.
-- 👀 I’m interested in designing and developing scalable solutions, and working on challenging software problems.
+- 👨‍💼 I am currently work as Software Developer with Barclays.
+- 👷 Previously I have worked with Amdocs.
+- 👀 I’m interested in designing and developing scalable solutions, and working on challenging software problems focusing on machine learning and artifical intelligence.
 - 📫 Email : srvyawahare18@gmail.com
 
 
